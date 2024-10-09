@@ -17,7 +17,7 @@ const Testimonial = () => {
             alt='User Image'
           />
           <p className='text-gray-500 mb-2 text-center'>
-            "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean commodo ligula eget dolor."
+            &quot;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean commodo ligula eget dolor.&quot;
           </p>
           <h3 className='font-bold text-blue-600'>Janee Doe</h3> 
         </div>
@@ -32,7 +32,7 @@ const Testimonial = () => {
             alt='User Image'
           />
           <p className='text-gray-500 mb-2 text-center'>
-            "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam."
+            &quot;Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.&quot;
           </p>
           <h3 className='font-bold text-blue-600'>Jon Smith</h3> 
         </div>
@@ -47,7 +47,7 @@ const Testimonial = () => {
             alt='User Image'
           />
           <p className='text-gray-500 mb-2 text-center'>
-            "Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur."
+            &quot;Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur.&quot;
           </p>
           <h3 className='font-bold text-blue-600'>Alice Johnson</h3> 
         </div>

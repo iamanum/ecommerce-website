@@ -7,7 +7,6 @@ const Navbar = () => {
       <div className='container'>
         <div className="flex w-fit gap-10 mx-auto font-medium py-4 text-blackish">
           
-          
           <Link href="#" className='navbar__link relative'>
             HOME
           </Link>
@@ -15,10 +14,10 @@ const Navbar = () => {
             CATEGORIES
           </Link>
           <Link href="#" className='navbar__link relative'>
-            MEN'S
+            MEN&apos;S
           </Link>
           <Link href="#" className='navbar__link relative'>
-            WOMEN'S
+            WOMEN&apos;S
           </Link>
           <Link href="#" className='navbar__link relative'>
             JEWELERY
